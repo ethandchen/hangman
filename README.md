@@ -1,2 +1,2 @@
-# hangman
+# Hangman
 Interactive Hangman Game with Vocabulary
